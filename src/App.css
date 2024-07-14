@@ -1,0 +1,9 @@
+body{
+
+
+  background-image: linear-gradient(to left top, #4a92b6 0%, rgb(10, 103, 208) 100%);
+  overflow: hidden;
+}
+*{
+  overflow:hidden ;
+}
